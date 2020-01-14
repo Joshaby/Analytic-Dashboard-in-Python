@@ -1,2 +1,3 @@
 # Analytic-Dashboard-in-Python
-Projeto da disciplina de estatística
+
+Dashboard em python para análise de acidentes durante 2017-2019
